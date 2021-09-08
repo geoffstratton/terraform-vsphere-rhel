@@ -9,7 +9,7 @@ Jenkins-driven, modularized Terraform builder for creating Red Hat 7 and 8 virtu
 * Terraform (https://www.terraform.io/)
 * Terraform vSphere Provider (https://registry.terraform.io/providers/hashicorp/vsphere/latest/docs)
 * Packer (https://www.packer.io/)
-* Packer vSphere-ISO builder (https://www.packer.io/docs/builders/vmware/vsphere-iso)
+* Packer vSphere-ISO builder (https://www.packer.io/docs/builders/vsphere)
 * Jenkins (https://www.jenkins.io/)
 * VMWare (https://www.vmware.com/)
 
