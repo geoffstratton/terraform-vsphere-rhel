@@ -15,7 +15,7 @@ Jenkins-driven, modularized Terraform builder for creating Red Hat 7 and 8 virtu
 
 License
 -------
-Apache 2.0
+GNU General Public License v3.0
 
 Author Information
 ------------------
